@@ -11,6 +11,29 @@ A full-featured car rental mobile application built with React Native and Expo, 
 
 This mobile application provides a complete car rental experience with user authentication, car browsing, booking management, and real-time data synchronization. The app showcases best practices in React Native development, including state management, navigation, Firebase integration, and device sensor utilization.
 
+## Screenshots
+
+<p align="center">
+   <img src="docs/screenshots/01-popular-cars.jpg" alt="Popular Cars" width="320" />
+   <img src="docs/screenshots/02-sign-up.jpg" alt="Sign Up" width="320" />
+</p>
+<p align="center">
+   <img src="docs/screenshots/03-home.jpg" alt="Home" width="320" />
+   <img src="docs/screenshots/04-top-left-menu.jpg" alt="Top Left Menu" width="320" />
+</p>
+<p align="center">
+   <img src="docs/screenshots/05-profile.jpg" alt="Profile" width="320" />
+   <img src="docs/screenshots/06-driver-license.jpg" alt="Driver License" width="320" />
+</p>
+<p align="center">
+   <img src="docs/screenshots/07-browse.jpg" alt="Browse Cars" width="320" />
+   <img src="docs/screenshots/08-car-details.jpg" alt="Car Details" width="320" />
+</p>
+<p align="center">
+   <img src="docs/screenshots/09-my-bookings.jpg" alt="My Bookings" width="320" />
+   <img src="docs/screenshots/10-login.jpg" alt="Login" width="320" />
+</p>
+
 ## Key Features
 
 ### Authentication & User Management
